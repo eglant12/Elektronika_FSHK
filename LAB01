@@ -1,3 +1,54 @@
-       Raport.jpynb
+       Raport.jpynb RAPORT LABORATORI – ELEKTRONIKË
+Tema: Njohja dhe përdorimi i Breadboard
+
+Lënda: Elektronikë
+Punoi: Eglant Lacka
+Data: 02/10/2026
+
+1. Qëllimi i laboratorit
+
+Qëllimi i këtij laboratori është njohja me breadboard-in, mënyra e lidhjes së komponentëve elektronikë dhe realizimi i qarqeve elektrike pa pasur nevojë për saldim.
+
+2. Pajisjet dhe materialet e përdorura
+Breadboard
+Rezistenca elektrike
+LED
+Tela lidhës (Jumper Wires)
+Bateri ose burim tensioni DC
+Multimetër
+3. Përshkrimi teorik
+
+Breadboard është një pllakë eksperimentale që përdoret për ndërtimin dhe testimin e qarqeve elektronike.
+
+Ajo përmban vrima të lidhura elektrikisht në grupe të caktuara, ku mund të vendosen komponentë elektronikë.
+
+Breadboard përdoret për të provuar qarqe të ndryshme pa pasur nevojë për saldim.
+
+4. Procedura e punës
+U vendos breadboard-i në tavolinën e laboratorit.
+U identifikuan linjat pozitive dhe negative të furnizimit.
+U vendos LED-i në breadboard.
+U lidh rezistenca në seri me LED-in.
+U mat rezistenca me multimeter 
+U vendosen rezistencat qe te jepni shumen 12 V
+U realizuan lidhjet me tela
+U lidh burimi i tensionit DC.
+U kontrollua funksionimi i qarkut.
+5. Rezultatet e arritura
+
+Pas realizimit të lidhjeve elektrike, qarku u testua dhe u kontrollua funksionimi i LED-it.
+
+Rezultatet treguan rëndësinë e lidhjes së saktë të komponentëve dhe përdorimit të rezistencës për kufizimin e rrymës që kalon në LED.
+
+6. Përfundimi
+
+Nga ky laborator mësuam përdorimin e breadboard-it, mënyrën e lidhjes së komponentëve elektronikë dhe realizimin e një qarku të thjeshtë elektrik.
+Gjithashtu, kuptuam rëndësinë e rezistencës dhe polaritetit të LED-it
+
+
+
+
+
+Fund i raportit.
        data/
         figs/
